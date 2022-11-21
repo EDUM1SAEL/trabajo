@@ -1,0 +1,22 @@
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.xml
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.vbprojResolveAssemblyReference.cache
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.Resources.resources
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.vbproj.GenerateResource.Cache
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.xml
+C:\Users\Equipo 02\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.xml
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\bin\Debug\Criptografia.xml
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.vbprojResolveAssemblyReference.cache
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.Resources.resources
+C:\Users\D337RZE\Documents\andy\trabajos vb\Criptografia\Criptografia\obj\Debug\Criptografia.vbproj.GenerateResource.Cache
