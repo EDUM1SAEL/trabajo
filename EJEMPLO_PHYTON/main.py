@@ -1,0 +1,20 @@
+print("Ejemplo Python");
+a=int(9-3);
+b=int(8*2.5);
+c=int(9//2);
+d=int(9/-2);
+e=int(9%2);
+f=int(9%-2);
+g=int(9%-2.0);
+h=int(4+3*5);
+j=int((4+3)*5);
+print(a);
+print(b);
+print(c);
+print(d);
+print(e);
+print(f);
+print(g);
+print(h);
+print(j);
+
